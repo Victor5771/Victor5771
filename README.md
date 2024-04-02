@@ -1,4 +1,4 @@
-👋 Hi, I’m @Victor5771
+👋 Hi, I’m Victor Kyalo
 👀 I’m interested in software engineering and all things tech-related.
 🌱 I’m currently learning the ins and outs of software engineering.
 💞️ I’m looking to collaborate on open-source projects and anything that challenges my coding skills.
